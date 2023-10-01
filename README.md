@@ -1,16 +1,47 @@
-# opinhacks
+# OPIN-HACKS HACKATHON
+### TEAM NAME: GDSC GHRCE ALPHA
 
-A new Flutter project.
+| TEAM LEADER                    | MEMBER                    | MEMBER                     | MEMBER                    |
+| --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| AMAN TIWARI| RUTUJA BALPANDE | AYUSH CHAWARE | KAUSTUBH SARAF |
 
-## Getting Started
+---
+## 🧑🏻‍💻Problem Statement: Enhancing Smart Education for New Education Policy
+### Description:
+This software is a platform to access the student might be of any age to maximize academic Potential to avoid Misstep in Career Choice.
+Useful for school/universities to a lot student perfect grade to making balance of IQ of Student
+Those who left studies due to some reasons and hesitate to resume studies, this shall increase the confidence level and moral importance of the person to pursue future education.
+Ultimately leading to more fulfilling and successful educational and professional journeys.
+AI and ML revolutionize industries by automating tasks, predicting trends, and enhancing decision-making. They power applications in healthcare, finance, marketing, autonomous vehicles, and more. From personalized education to cybersecurity, these technologies drive efficiency, intelligence, and innovation across various sectors, transforming the way we operate. 
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Best use of Sponsors:
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Used Auth0 for *SignIn/SignUp Via Google*.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Screenshots: 
+ ![Image 1](readme-assets/1.jpg)
+ 
+---
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- Used Postman API workspace for *testing* the *response time* of API which we used in the project. 
+Screenshots: 
+ ![Image 1](readme-assets/2.jpg)
+
+---
+
+![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)![Quine](https://img.shields.io/badge/Quine-%96F144.svg?style=for-the-badge&logo=Quine&logoColor=white)
+- Used Quine and Github for making our project *open for all*.
+Screenshots: 
+
+ ![Image 1](readme-assets/3.jpg)
+ ![Image 1](readme-assets/4.jpg)
+ 
+---
+## TECH STACK USED🧑🏻‍💻
+
+![Flutter](https://img.shields.io/badge/Flutter-%230175C2.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
