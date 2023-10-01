@@ -29,17 +29,20 @@ AI and ML revolutionize industries by automating tasks, predicting trends, and e
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - Used Postman API workspace for *testing* the *response time* of API which we used in the project. 
 Screenshots: 
- ![Image 1](readme-assets/2.jpg)
+ ![Image 1](assets/Screenshot 2023-10-01 105145.png)
 
 ---
+![Orkes](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- Used Orkes for workflow automation. Orkes, the enterprise-grade Conductor platform, simplifies developing and scaling distributed workflows, microservices and events. 
+Screenshots: 
+ ![Image 1](assets/Screenshot 2023-10-01 104146.png)
+
 
 ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)![Quine](https://img.shields.io/badge/Quine-%96F144.svg?style=for-the-badge&logo=Quine&logoColor=white)
 - Used Quine and Github for making our project *open for all*.
-Screenshots: 
-
- ![Image 1](readme-assets/3.jpg)
- ![Image 1](readme-assets/4.jpg)
  
+
+
 ---
 ## TECH STACK USED🧑🏻‍💻
 
